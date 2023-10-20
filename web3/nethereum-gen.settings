@@ -1,0 +1,7 @@
+{
+    "projectName": "Web3",
+    "namespace": "Web3.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "../"
+}
