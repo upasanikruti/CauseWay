@@ -1,5 +1,5 @@
 # CauseWay
-"Introducing 'CauseWay': Empowering Transparent and Secure Crowdfunding through Blockchain and REACT.
+#"Introducing 'CauseWay': Empowering Transparent and Secure Crowdfunding through Blockchain and REACT.
 
 'CauseWay' is a groundbreaking crowdfunding platform that leverages the potential of blockchain technology and REACT to redefine the crowdfunding landscape. Built with the aim to foster a safe, transparent, and trustworthy environment, CauseWay revolutionizes the way people fund projects and startups.
 
